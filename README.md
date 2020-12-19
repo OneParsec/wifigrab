@@ -3,9 +3,9 @@
 
 # Как использовать
 
-Перейдите на [эту страницу(https://myaccount.google.com/lesssecureapps)] и разрешите доступ небезопасным приложениям.
+Перейдите на [эту страницу](https://myaccount.google.com/lesssecureapps) и разрешите доступ небезопасным приложениям.
 
-Установите [Python(https://python.org/downloads)]
+Установите [Python](https://python.org/downloads)
 
 Скачайте этот репозиторий через кнопку Code/Download from ZIP
 
